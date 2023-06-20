@@ -3,3 +3,5 @@
 2)Standard Input and Output, Operators, If Statement For Loop, Nested For Loop, While Nested For and IF
 3)Operations on List, Tuple, Dictionary, Set Introduction to User Defined Functions
 4)User defined function,Lambda function,recusrion
+5)Exception Handling
+6)User Defined exception logging debugging
