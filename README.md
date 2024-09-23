@@ -12,4 +12,4 @@ IN THIS PROJECT I HAVE CREATED NOTES FOR EACH CHAPTERS OF PYTHON.
 
 5)Exception Handling
 
-6)User Defined exception logging debugging
+6)User Defined exception logging debugging.
